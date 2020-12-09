@@ -1,0 +1,10 @@
+sudp nmap -sV -sC -oN /tmp/scan <IP>
+curl http://<IP>/robots.txt
+SMBCLIENT -L //<IP>
+ftp <IP>
+
+
+Webbrowser
+http://<IP>
+http://<IP>:3000
+

